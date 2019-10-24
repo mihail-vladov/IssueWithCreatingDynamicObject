@@ -9,4 +9,5 @@ Steps to reproduce:
 2. Run the tests.
 
 **Actual Result**: The test for .NET Core 3.0 will fail.
+
 **Expected Result**: The test for .NET Core 3.0 should pass as the one for 2.2 as they are the same.
